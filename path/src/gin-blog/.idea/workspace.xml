@@ -20,18 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a202f46d-bfe3-4272-8d60-ac71894137d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/middleware/jwt/jwt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/article.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/auth.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/util/jwt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/api/auth.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/api/v1/articles.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../github.com/dgrijalva/jwt-go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/tag.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/tag.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/api/v1/tag.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/api/v1/tag.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/api/auth.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/api/auth.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="$PROJECT_DIR$/../../.." />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
@@ -75,7 +65,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -123,6 +113,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -137,29 +128,42 @@
       <screen x="0" y="25" width="2560" height="1333" />
     </state>
     <state x="1294" y="450" key="#com.intellij.fileTypes.FileTypeChooser/0.25.2560.1333@0.25.2560.1333" timestamp="1607007442881" />
-    <state width="1750" height="271" key="GridCell.Tab.0.bottom" timestamp="1607069263120">
+    <state width="1324" height="271" key="GridCell.Tab.0.bottom" timestamp="1607678364206">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state width="1750" height="271" key="GridCell.Tab.0.bottom/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607069263120" />
+    <state width="1750" height="271" key="GridCell.Tab.0.bottom/-1366.109.1366.745/0.23.2048.1129@-1366.109.1366.745" timestamp="1607673433642" />
+    <state width="1324" height="271" key="GridCell.Tab.0.bottom/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607678364206" />
+    <state width="1750" height="271" key="GridCell.Tab.0.bottom/-1366.109.1366.745/0.23.2304.1273@-1366.109.1366.745" timestamp="1607503054291" />
+    <state width="1750" height="271" key="GridCell.Tab.0.bottom/-1366.109.1366.745/0.23.2304.1273@0.23.2304.1273" timestamp="1607413275277" />
     <state width="1300" height="253" key="GridCell.Tab.0.bottom/0.25.2560.1333@0.25.2560.1333" timestamp="1607014050295" />
-    <state width="1750" height="271" key="GridCell.Tab.0.center" timestamp="1607069263120">
+    <state width="1324" height="271" key="GridCell.Tab.0.center" timestamp="1607678364206">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state width="1750" height="271" key="GridCell.Tab.0.center/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607069263120" />
+    <state width="1750" height="271" key="GridCell.Tab.0.center/-1366.109.1366.745/0.23.2048.1129@-1366.109.1366.745" timestamp="1607673433641" />
+    <state width="1324" height="271" key="GridCell.Tab.0.center/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607678364206" />
+    <state width="1750" height="271" key="GridCell.Tab.0.center/-1366.109.1366.745/0.23.2304.1273@-1366.109.1366.745" timestamp="1607503054291" />
+    <state width="1750" height="271" key="GridCell.Tab.0.center/-1366.109.1366.745/0.23.2304.1273@0.23.2304.1273" timestamp="1607413275276" />
     <state width="1300" height="253" key="GridCell.Tab.0.center/0.25.2560.1333@0.25.2560.1333" timestamp="1607014050294" />
-    <state width="1750" height="271" key="GridCell.Tab.0.left" timestamp="1607069263119">
+    <state width="1324" height="271" key="GridCell.Tab.0.left" timestamp="1607678364206">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state width="1750" height="271" key="GridCell.Tab.0.left/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607069263119" />
+    <state width="1750" height="271" key="GridCell.Tab.0.left/-1366.109.1366.745/0.23.2048.1129@-1366.109.1366.745" timestamp="1607673433641" />
+    <state width="1324" height="271" key="GridCell.Tab.0.left/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607678364206" />
+    <state width="1750" height="271" key="GridCell.Tab.0.left/-1366.109.1366.745/0.23.2304.1273@-1366.109.1366.745" timestamp="1607503054290" />
+    <state width="1750" height="271" key="GridCell.Tab.0.left/-1366.109.1366.745/0.23.2304.1273@0.23.2304.1273" timestamp="1607413275276" />
     <state width="1300" height="253" key="GridCell.Tab.0.left/0.25.2560.1333@0.25.2560.1333" timestamp="1607014050293" />
-    <state width="1750" height="271" key="GridCell.Tab.0.right" timestamp="1607069263120">
+    <state width="1324" height="271" key="GridCell.Tab.0.right" timestamp="1607678364206">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state width="1750" height="271" key="GridCell.Tab.0.right/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607069263120" />
+    <state width="1750" height="271" key="GridCell.Tab.0.right/-1366.109.1366.745/0.23.2048.1129@-1366.109.1366.745" timestamp="1607673433642" />
+    <state width="1324" height="271" key="GridCell.Tab.0.right/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607678364206" />
+    <state width="1750" height="271" key="GridCell.Tab.0.right/-1366.109.1366.745/0.23.2304.1273@-1366.109.1366.745" timestamp="1607503054291" />
+    <state width="1750" height="271" key="GridCell.Tab.0.right/-1366.109.1366.745/0.23.2304.1273@0.23.2304.1273" timestamp="1607413275276" />
     <state width="1300" height="253" key="GridCell.Tab.0.right/0.25.2560.1333@0.25.2560.1333" timestamp="1607014050294" />
-    <state x="328" y="129" key="SettingsEditor" timestamp="1607048335448">
+    <state x="328" y="129" key="SettingsEditor" timestamp="1607678223297">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state x="328" y="129" key="SettingsEditor/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607048335448" />
+    <state x="328" y="129" key="SettingsEditor/-1366.109.1366.745/0.23.2048.1129@0.23.2048.1129" timestamp="1607678223297" />
+    <state x="369" y="143" key="SettingsEditor/-1366.109.1366.745/0.23.2304.1273@0.23.2304.1273" timestamp="1607413182361" />
   </component>
 </project>

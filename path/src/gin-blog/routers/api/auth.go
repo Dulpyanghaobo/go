@@ -29,6 +29,8 @@ func GetAuth(c *gin.Context) {
 			if err != nil {
 				code = e.ERROR_AUTH_TOKEN
 			} else {
+				data["username"] = username
+				data["password"] = password
 				data["token"] = token
 				code = e.SUCCESS
 			}
